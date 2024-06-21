@@ -22,7 +22,7 @@ Este proyecto es una aplicación de conversión de divisas que permite a los usu
 - `InterfazDeUsuario`: Interación e ingreso de datos con el usuario.
 
 ### 📁 Acceso al proyecto
-[Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final](https://github.com/vale121470/challenge-conversion-de-monedas.git)
+git clone[ enlace ](https://github.com/vale121470/challenge-conversion-de-monedas.git)
 
 ### 🛠️ Abre y ejecuta el proyecto
 
